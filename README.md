@@ -1,8 +1,5 @@
 # Cracks classification datasets
-A repository for concrete and pavement surface cracks classification datasets. 
-
-# Introduction
-A repository for concrete and pavement surface cracks classification datasets. 
+A repository for concrete, pavement and walls/mixed surface cracks classification datasets.
 
 ## Datasets examples
 | No. | Dataset name | Cracks images | Non-cracks images | Download link |
