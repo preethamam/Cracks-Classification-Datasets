@@ -1,5 +1,5 @@
 # Cracks classification datasets
-A repository for concrete, pavement and walls/mixed surface cracks classification datasets.
+Cracks are the defects formed by cyclic loading, fatigue, shrinkage, creep, and so on. In addition, they represent the deterioration of the structures over some time. Therefore, it is essential to detect and classify them according to the condition grade at the early stages to prevent the collapse of structures. Deep learning and machine learning-based supervised classification methods requires carefully annotated images of cracks. This is a repository of human annotated classification datasets of concrete, pavement, walls/mixed and masonry/bricks cracks surface. I collected these datasets during my Ph.D. days and used many for my dissertation.
 
 ## Datasets examples
 | No. | Dataset name | Cracks images | Non-cracks images | Download link |
