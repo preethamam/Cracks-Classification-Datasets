@@ -2,12 +2,12 @@
 Cracks are the defects formed by cyclic loading, fatigue, shrinkage, creep, and so on. In addition, they represent the deterioration of the structures over some time. Therefore, it is essential to detect and classify them according to the condition grade at the early stages to prevent the collapse of structures. Deep learning and machine learning-based supervised classification methods requires carefully annotated images of cracks. This is a repository of human annotated classification datasets of concrete, pavement, walls/mixed and masonry/bricks cracks surface. I collected these datasets during my Ph.D. days and used many for my dissertation.
 
 ## Datasets examples
-| No. | Dataset name | Cracks images | Non-cracks images | Remarks | Download link |
+| No. | Dataset name | Cracks images | Non-cracks images | Remarks |
 | ------------- | ------------- |  ------------- |  ------------- | ------------- | ------------- |
-| 1 | Cracks-5K (227x227) | ![](assets/Dataset_1_Cracks-5K_(227x227)_crack.png) | ![](assets/Dataset_1_Cracks-5K_(227x227)_noncrack.png) | Concrete and pavement surfaces as a variety | [Cracks-5K (227x227)](https://1drv.ms/f/c/49b23bc11eecd6a8/EtBNtnET4YtFmuJCKQXWLRcB8hJvBcLCVv8NZT0jEyjhSA?e=Y6aKvH) |
-| 2 | Concrete dataset to be uploaded soon | | | | |
-| 3 | Concrete and pavement dataset to be uploaded soon | | | | |
-| 4 | Concrete, pavment, walls and glass dataset to be uploaded soon | | | | |
+| 1 | [Cracks-5K (227x227)](https://1drv.ms/f/c/49b23bc11eecd6a8/EtBNtnET4YtFmuJCKQXWLRcB8hJvBcLCVv8NZT0jEyjhSA?e=Y6aKvH) | ![](assets/Dataset_1_Cracks-5K_(227x227)_crack.png) | ![](assets/Dataset_1_Cracks-5K_(227x227)_noncrack.png) | Concrete and pavement surfaces as a variety | 
+| 2 | Concrete dataset to be uploaded soon | | | |
+| 3 | Concrete and pavement dataset to be uploaded soon | | | |
+| 4 | Concrete, pavement, walls and glass dataset to be uploaded soon | | | |
 
 # Citation
 All cracks classification datasets are available to the public. If you use any of these datasets in your research, please use the following BibTeX entry to cite:
