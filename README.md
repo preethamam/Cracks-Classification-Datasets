@@ -3,7 +3,7 @@ Cracks are the defects formed by cyclic loading, fatigue, shrinkage, creep, and 
 
 ## Datasets examples
 | No. | Dataset name | Cracks images | Non-cracks images | Remarks |
-| ------------- | ------------- |  ------------- |  ------------- | ------------- | ------------- |
+| ------------- | ------------- |  ------------- |  ------------- | ------------- |
 | 1 | [Cracks-5K (227x227)](https://1drv.ms/f/c/49b23bc11eecd6a8/EtBNtnET4YtFmuJCKQXWLRcB8hJvBcLCVv8NZT0jEyjhSA?e=Y6aKvH) | ![](assets/Dataset_1_Cracks-5K_(227x227)_crack.png) | ![](assets/Dataset_1_Cracks-5K_(227x227)_noncrack.png) | Concrete and pavement surfaces as a variety | 
 | 2 | Concrete dataset to be uploaded soon | | | |
 | 3 | Concrete and pavement dataset to be uploaded soon | | | |
