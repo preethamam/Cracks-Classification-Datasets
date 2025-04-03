@@ -7,7 +7,7 @@ Cracks are the defects formed by cyclic loading, fatigue, shrinkage, creep, and 
 | 1 | [Cracks-5.7K (227x227)](https://1drv.ms/f/c/49b23bc11eecd6a8/EtBNtnET4YtFmuJCKQXWLRcBywLJiQy6tVR8nIw-a2hkZQ?e=f49fEx) | ![](assets/Dataset_1_Cracks-5.7K_(227x227)_crack.png) | ![](assets/Dataset_1_Cracks-5.7K_(227x227)_noncrack.png) | Concrete and pavement surface images. This dataset has a great variety with types of cracks and texture. Highly textureous and cracks width varies largely. Types of cracks include a few strands, branched and surface.| 
 | 2 | [Cracks-3.7K (644x483)](https://1drv.ms/f/c/49b23bc11eecd6a8/ErWfsmYD6FdKof52qUiJ7hUBAVS50eAoo32WQJBDNPVzFw?e=IfcLua) | ![](assets/Dataset_2_Cracks-3.7K_(644x483)_crack.png) | ![](assets/Dataset_2_Cracks-3.7K_(644x483)_noncrack.png) | Purely a concrete surface images. This dataset has a cracks with a few strands and some branches. Highly textureous and cracks width varies largely. |
 | 3 | Concrete and pavement dataset to be uploaded soon | | | |
-| 4 | [Cracks-1.3K](https://1drv.ms/f/c/49b23bc11eecd6a8/Egqz7v0s5glAn8InjAHBfWIBK6Gwq-c5_afnr8C74RztMA?e=qpojee) | ![](assets/Dataset_4_Cracks-1.3K_crack.png) | ![](assets/Dataset_3_Cracks-1.3K_noncrack.png) | This dataset is the most diverse and consists of concrete, pavement, walls and glass surface images. This dataset has a cracks with a few strands, thin, thick, branched and surface. Highly textureous and cracks width varies largely. I call this dataset as ***The Wild Wild West*** because of its diversity and different images size. |
+| 4 | [Cracks-1.3K](https://1drv.ms/f/c/49b23bc11eecd6a8/Egqz7v0s5glAn8InjAHBfWIBK6Gwq-c5_afnr8C74RztMA?e=qpojee) | ![](assets/Dataset_4_Cracks-1.3K_crack.png) | ![](assets/Dataset_4_Cracks-1.3K_noncrack.png) | This dataset is the most diverse and consists of concrete, pavement, walls and glass surface images. This dataset has a cracks with a few strands, thin, thick, branched and surface. Highly textureous and cracks width varies largely. I call this dataset as ***The Wild Wild West*** because of its diversity and different images size. |
 
 # Citation
 All cracks classification datasets are available to the public. If you use any of these datasets in your research, please use the following BibTeX entry to cite:
@@ -25,7 +25,7 @@ note = {Condition assessment, Crack localization, Crack change detection, Synthe
 ```
 
 # Acknowledgements
-I thank Shravan Ravi, Vinay Hegde, and Milind Bhat (chronological order) for their efforts in the collection and preparation of the crack and non-crack image database around the University of Southern California (USC) campus at Los Angeles, USA. I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete, pavement, walls and glass datasets. In addition, I thank Ryan and Milind for their conscientious efforts in creating for crack and non-crack classification annotations.
+I thank Shravan Ravi, Vinay Hegde, and Milind Bhat (chronological order) for their efforts in the collection and preparation of the crack and non-crack image database around the University of Southern California (USC) campus at Los Angeles, USA. I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete, pavement, walls and glass in [Cracks-1.3K](https://1drv.ms/f/c/49b23bc11eecd6a8/Egqz7v0s5glAn8InjAHBfWIBK6Gwq-c5_afnr8C74RztMA?e=qpojee) dataset. In addition, I thank Ryan and Milind for their conscientious efforts in creating for crack and non-crack classification annotations.
 
 # Feedback
 Please rate and provide feedback for the further improvements.
