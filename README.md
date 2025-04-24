@@ -25,7 +25,7 @@ note = {Condition assessment, Crack localization, Crack change detection, Synthe
 ```
 
 # Acknowledgements
-I thank Shravan Ravi, Vinay Hegde, and Milind Bhat (chronological order) for their efforts in the collection and preparation of the crack and non-crack image database around the University of Southern California (USC) campus at Los Angeles, USA. I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete, pavement, walls and glass in [Cracks-1.3K](https://1drv.ms/f/c/49b23bc11eecd6a8/Egqz7v0s5glAn8InjAHBfWIBK6Gwq-c5_afnr8C74RztMA?e=qpojee) dataset. In addition, I thank Ryan and Milind for their conscientious efforts in creating for crack and non-crack classification annotations.
+I thank Shravan Ravi, Vinay Hegde, and Milind Bhat (chronological order) for their efforts in the collection and preparation of the crack and non-crack image database around the University of Southern California (USC) campus at Los Angeles, USA. I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete, pavement, walls and glass in [Cracks-1.3K](https://1drv.ms/f/c/49b23bc11eecd6a8/Egqz7v0s5glAn8InjAHBfWIBK6Gwq-c5_afnr8C74RztMA?e=qpojee) dataset. In addition, I thank Ryan, Milind and Ajay Kumar V. (chronological order) for their conscientious efforts in creating for crack and non-crack classification annotations.
 
 # Feedback
 Please rate and provide feedback for the further improvements.
